@@ -1,0 +1,114 @@
+#cl-visi {
+  padding: 0px 4em;
+}
+
+#content-1 {
+  color: white;
+  font-size: larger;
+}
+
+#alumni-title {
+  color: white;
+}
+
+#c1-pic {
+  padding-top: 2em;
+}
+
+.con-pad {
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+.bot-pad {
+  padding-bottom: 20px;
+}
+
+#head-title {
+  font-family: Times, "Times New Roman", serif;
+}
+
+#visi-title {
+  font-weight: bold;
+  font-family: Georgia, Times, "Times New Roman", serif;
+}
+
+#misi-title {
+  font-weight: bold;
+  font-family: Georgia, Times, "Times New Roman", serif;
+}
+
+#visi-cap {
+  font-size: 1.2em;
+}
+
+#c2-pic img {
+  height: 620px;
+}
+
+.table {
+  font-size: 1.2em;
+}
+
+.a-t {
+  font-size: 1.5em;
+}
+
+.card {
+  margin: 0 10px 0 10px;
+}
+
+#alumni-card {
+  padding: 2em 5em;
+}
+
+.gelar {
+  color: gray;
+  font-style: italic;
+}
+
+.s-m-shadow-1 {
+  box-shadow: rgba(0, 0, 0, 0.4) -5px 5px, rgba(0, 0, 0, 0.3) -10px 10px,
+    rgba(0, 0, 0, 0.2) -15px 15px, rgba(0, 0, 0, 0.1) -20px 20px,
+    rgba(0, 0, 0, 0.05) -25px 25px;
+}
+
+.s-m-shadow-2 {
+  box-shadow: rgba(255, 255, 255, 0.4) -5px 5px,
+    rgba(255, 255, 255, 0.3) -10px 10px, rgba(238, 238, 238, 0.2) -15px 15px,
+    rgba(255, 255, 255, 0.1) -20px 20px, rgba(255, 255, 255, 0.05) -25px 25px;
+}
+
+.s-shadow-2 {
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px,
+    rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+
+.menyesuaikan {
+  width: 25%;
+}
+
+nav {
+  position: sticky;
+}
+
+.material-symbols-outlined {
+  font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 0, "opsz" 48;
+}
+
+.m-form {
+  max-width: 500px;
+}
+
+#gallery-img {
+  padding-top: 1.5em;
+  max-width: 85%;
+}
+
+.nav-link {
+  color: white;
+}
+
+button {
+  color: aliceblue;
+}

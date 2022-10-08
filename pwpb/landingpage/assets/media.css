@@ -1,0 +1,23 @@
+@media screen and (max-width: 990px) {
+  #carousel-right {
+    display: none;
+  }
+
+  #cl-visi {
+    padding: 0px 0em;
+  }
+
+  #c1-pic {
+    display: none;
+  }
+
+  #c2-pic {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 990px) {
+  #carousel-res {
+    display: none;
+  }
+}
